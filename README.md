@@ -1,2 +1,2 @@
 # Gitclass
-added webhook
+added webhooks
